@@ -4,3 +4,27 @@ body::-webkit-scrollbar-thumb{
 body::-webkit-scrollbar{
     width: 7px;
 }
+
+.header-japan {
+    border-radius: 0;
+    width: 40px;
+    font-family: 'Righteous', cursive;
+    font-size: 15px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    transition: all 0.5s;
+    background: #aab6fe !important;
+    color: #aab6fe;
+    font-family: 'Righteous', cursive;
+
+}
+.nav-item{
+    padding: 8px;
+}
+.navbar-brand{
+    font-size: 26px;
+    color: #212121 !important;
+}
+
