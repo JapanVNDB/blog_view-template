@@ -28,3 +28,7 @@ body::-webkit-scrollbar{
     color: #212121 !important;
 }
 
+.carousel-item{
+    width: 100%;
+    padding-top: 55px;
+}
